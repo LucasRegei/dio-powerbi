@@ -14,3 +14,4 @@ Os desafio de Power BI consistem na criação de Dashboards e relatórios para a
 
 ## Ferramentas
 ![PowerBI](https://img.shields.io/badge/Power_BI-FFB71B?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-007fff?style=for-the-badge)
