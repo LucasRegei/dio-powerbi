@@ -13,4 +13,4 @@ Repositório criado para resolução do Desafio **"Analisando dados de um Dashbo
 O desafio "Analisando dados de um Dashboard de Vendas no Power BI" consiste na criação de Dashboards para analise de dados, utilizando os conhecimentos adquiridos ao decorrer do Curso sobre Power BI.
 
 ## Ferramentas
-![PowerBI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power_BI-FFB71B?style=for-the-badge)
